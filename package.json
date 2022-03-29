@@ -17,15 +17,15 @@
     "ios"
   ],
   "author": {
-    "name": "Iftekhar Rifat",
-    "email": "rifat662@gmail.com",
-    "url": "https://github.com/Agontuk"
+    "name": "Himatheja Durgam",
+    "email": "durgamtheju@gmail.com",
+    "url": "https://github.com/Himatheja"
   },
   "license": "MIT",
-  "homepage": "https://github.com/Agontuk/react-native-geolocation-service",
+  "homepage": "https://github.com/Himatheja/react-native-geolocation-service",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Agontuk/react-native-geolocation-service"
+    "url": "https://github.com/Himatheja/react-native-geolocation-service"
   },
   "dependencies": {},
   "devDependencies": {
